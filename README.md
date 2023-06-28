@@ -69,5 +69,3 @@
     <a href="https://github.com/VinodKumarGgithub?tab=followers">
         <img src="https://img.shields.io/github/followers/VinodKumarGgithub?label=Followers&style=social" alt="GitHub Badge">
     </a>
-    <hr />
-    <h2><a href="https://VinodKumarGgithub.github.io/">🌍 | Portfolio </a></h2>
