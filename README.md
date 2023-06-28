@@ -64,10 +64,10 @@
     </p>
     <h2>❤ Views and Followers :</h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/VinodKumarGgithub/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=thisiskmv" >
+        <img src="https://komarev.com/ghpvc/?username=VinodKumarGgithub" >
     </a>
     <a href="https://github.com/VinodKumarGgithub?tab=followers">
-        <img src="https://img.shields.io/github/followers/thisiskmv?label=Followers&style=social" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/followers/VinodKumarGgithub?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://thisiskmv.github.io/">🌍 | Portfolio </a></h2>
+    <h2><a href="https://VinodKumarGgithub.github.io/">🌍 | Portfolio </a></h2>
