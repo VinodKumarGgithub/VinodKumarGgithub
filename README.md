@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/3HeZ.gif"/>
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 <h1 align="center">Hi 👋, I'm Vinod Kumar G</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Personal Development**
 
-- 🌱 Portfolio - <a href="https://VinodKumarGgithub.github.io" target="_blank"></a>
+- 🌱 Portfolio - [https://VinodKumarGgithub.github.io](https://VinodKumarGgithub.github.io)
 
 - 💬 Ask me about **React.js Node.js HTML CSS JavaScript & JAVA**
 
