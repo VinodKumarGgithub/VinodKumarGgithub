@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **vpvinu.com@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cd8ILKCoeqjryHhfCvH5OzLO7LA8N345/view](https://drive.google.com/file/d/1Cd8ILKCoeqjryHhfCvH5OzLO7LA8N345/view)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VinodKumarGgithub&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VinodKumarGgithub&theme=dark&hide_border=true)<br/>
